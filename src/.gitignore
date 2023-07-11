@@ -1,0 +1,4 @@
+*.mdl
+cache/*
+output/*
+.vscode/*
